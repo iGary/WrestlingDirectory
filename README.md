@@ -1,2 +1,0 @@
-# WrestlingDirectory
-Created with CodeSandbox
